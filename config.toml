@@ -1,5 +1,5 @@
 theme = "hyde"
-baseURL = 'https://agroprocess.github.io'
+baseURL = 'https://agroprocess.com.br/'
 languageCode = 'pt-br'
 title = 'Agroprocess'
 
